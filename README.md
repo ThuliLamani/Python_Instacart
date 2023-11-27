@@ -18,10 +18,14 @@ Instacart is a real company that’s made their data available online. However, 
   * orders dataset
   * orders_products_prior
   * products
-  * departments 
+  * departments
 
 # Folders
 * Project management: Contains the project brief
 * Scripts: Contains Python code for the project
 * Analysis: Contains project visualizations
-* Sent to client: Contains the final report in Excel 
+* Sent to client: Contains the final report in Excel
+
+# Tools used:
+* Python
+* Excel 
